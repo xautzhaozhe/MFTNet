@@ -1,0 +1,11 @@
+Multi-scale frequency-guided two-stream network for hyperspectral anomaly detection
+
+@article{ZHAO2025104355,  
+	author = {Zhe Zhao and Jiangluqi Song and Dong Zhao and Jiajia Zhang and Huixin Zhou and Jun Zhou}，  
+	title = {Multi-scale frequency-guided two-stream network for hyperspectral anomaly detection},  
+	journal = {International Journal of Applied Earth Observation and Geoinformation},  
+	volume = {136},  
+	pages = {104355},  
+	year = {2025},  
+	publisher={Elsevier},  
+	doi = {https://doi.org/10.1016/j.jag.2025.104355}}  
