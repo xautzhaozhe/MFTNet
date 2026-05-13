@@ -1,5 +1,7 @@
 This code is for **Multi-scale frequency-guided two-stream network for hyperspectral anomaly detection**
 
+The link is **https://doi.org/10.1016/j.jag.2025.104355**
+
 # Citation
 ~~~
 @article{ZHAO2025104355,  
