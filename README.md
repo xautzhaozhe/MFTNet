@@ -1,5 +1,6 @@
-Multi-scale frequency-guided two-stream network for hyperspectral anomaly detection
+This code is for **Multi-scale frequency-guided two-stream network for hyperspectral anomaly detection**
 
+# Citation
 ~~~
 @article{ZHAO2025104355,  
   author = {Zhe Zhao, Jiangluqi Song, Dong Zhao, Jiajia Zhang, Huixin Zhou and Jun Zhou}，  
